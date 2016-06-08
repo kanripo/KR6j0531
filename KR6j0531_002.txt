@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:16.490362
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:24
 #+TITLE: 摩登伽經
 #+PROPERTY: CBETA_ID T21n1300
 #+PROPERTY: ID KR6j0531
@@ -17,7 +17,7 @@
 ¶
 吳天竺三藏竺律炎共支謙譯¶
 
-6觀災祥品
+* 6觀災祥品
 :PROPERTIES:
 :head: 觀災祥品第六
 :END:
@@ -323,7 +323,7 @@
 於商人。中旬動者。害豪勝人及童幼者。下旬¶
 地動。為災尠少。¶
 
-7明時分別品
+* 7明時分別品
 :PROPERTIES:
 :head: 《摩登伽經》明時分別品第七
 :END:
